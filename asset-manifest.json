@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.a78ff663.css",
-    "main.js": "./static/js/main.d3d02cf1.js",
+    "main.css": "./static/css/main.1c1a53ce.css",
+    "main.js": "./static/js/main.9213fcb8.js",
     "static/js/787.0c3f432a.chunk.js": "./static/js/787.0c3f432a.chunk.js",
     "static/media/58707-size.gif": "./static/media/58707-size.3902c5ab7a49020fa9cd.gif",
-    "static/media/88044-car-safety-edit.gif": "./static/media/88044-car-safety-edit.7d24266705031d0055fc.gif",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/WhatsApp Video 2023-06-25 at 6.32.00 PM.mp4": "./static/media/WhatsApp Video 2023-06-25 at 6.32.00 PM.644c4b4f2806f6c634a9.mp4",
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/489447.png": "./static/media/489447.a5a396379193279a115e.png",
     "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "./index.html",
-    "main.a78ff663.css.map": "./static/css/main.a78ff663.css.map",
-    "main.d3d02cf1.js.map": "./static/js/main.d3d02cf1.js.map",
+    "main.1c1a53ce.css.map": "./static/css/main.1c1a53ce.css.map",
+    "main.9213fcb8.js.map": "./static/js/main.9213fcb8.js.map",
     "787.0c3f432a.chunk.js.map": "./static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a78ff663.css",
-    "static/js/main.d3d02cf1.js"
+    "static/css/main.1c1a53ce.css",
+    "static/js/main.9213fcb8.js"
   ]
 }
